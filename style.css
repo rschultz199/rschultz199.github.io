@@ -1,3 +1,5 @@
 body {background-color: #33FFEC;}
 
-#table {width: 800px:}
+#pos_table {width: 800px:}
+
+#pos_td {width: 200px; text-align:center;}
