@@ -1,4 +1,4 @@
-body {background-image: "myBackground.jpg";}
+body {background-image: url("myBackground.jpg");}
 
 #pos_table {width: 800px:}
 
